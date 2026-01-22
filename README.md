@@ -1,37 +1,34 @@
-🌦️ Weather App (Progressive Web App)
+# 🌦️ Weather App (PWA)
 
-A modern Progressive Web App (PWA) that provides real-time weather information for any location. The app uses a weather API to fetch live data and delivers a fast, reliable, and app-like experience with offline support.
+A Progressive Web App that provides real-time weather updates for any location. The app is fast, responsive, installable, and works offline using modern web technologies.
 
-🚀 Features
+## 🚀 Features
+- Search weather by city name
+- Real-time temperature and weather conditions
+- Humidity and wind speed
+- Offline support using Service Worker (`sw.js`)
+- Installable as a PWA using `manifest.json`
+- Responsive UI for mobile and desktop
 
-Search weather by city name
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Weather API (e.g., OpenWeatherMap)
+- Service Worker (`sw.js`)
+- Web App Manifest (`manifest.json`)
 
-Real-time temperature and weather conditions
+## 📱 Progressive Web App Features
+- Caches assets for offline usage
+- App-like experience
+- Can be installed on mobile and desktop devices
+- Fast loading and reliable performance
 
-Humidity and wind speed details
+## 📸 Screenshots
+_Add screenshots of the app here_
 
-Progressive Web App support
-
-Offline functionality using Service Worker (sw.js)
-
-Installable on mobile and desktop via manifest.json
-
-Responsive and user-friendly UI
-
-🛠️ Built With
-
-HTML
-
-CSS
-
-JavaScript
-
-Weather API (e.g., OpenWeatherMap)
-
-manifest.json
-
-Service Worker (sw.js)
-
-📌 Purpose
-
-This project was built to practice frontend development, API integration, and Progressive Web App concepts such as caching, offline access, and installability.
+```text
+/screenshots
+  ├── home.png
+  ├── search.png
+  └── offline.png
