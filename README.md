@@ -19,7 +19,6 @@ A Progressive Web App that provides real-time weather updates for any location. 
 - Web App Manifest (`manifest.json`)
 
 ## 📱 Progressive Web App Features
-- Caches assets for offline usage
 - App-like experience
 - Can be installed on mobile and desktop devices
 - Fast loading and reliable performance
